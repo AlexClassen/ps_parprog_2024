@@ -1,0 +1,10 @@
+sum: 67108864, time: 0.4252 seconds
+
+real	0m0.428s
+user	0m0.740s
+sys	0m0.001s
+sum: 67108864, time: 0.4321 seconds
+
+real	0m0.434s
+user	0m0.857s
+sys	0m0.001s
